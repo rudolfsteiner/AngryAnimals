@@ -1,2 +1,5 @@
 # AngryAnimals
-Hacker test
+
+Hackerrank test
+
+Complexity O(n)
